@@ -1,0 +1,9 @@
+﻿{
+	"applicationID": "1512",
+	"domain": "analytics-proxy.waktest.com",
+	"remoteRepository": "http://git.analytics-proxy.waktest.com",
+	"repository": "/Users/alexandremorgaut/git/AMorgaut/analytics-proxy/.git",
+	"worktree": "/Users/alexandremorgaut/git/AMorgaut/analytics-proxy/",
+	"isSolutionCommited": "true",
+	"commitCount": "5"
+}
