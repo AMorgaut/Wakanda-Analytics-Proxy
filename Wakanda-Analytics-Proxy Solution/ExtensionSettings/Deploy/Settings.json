@@ -1,9 +1,9 @@
 ﻿{
-	"applicationID": "1512",
+	"applicationID": "1533",
 	"domain": "analytics-proxy.waktest.com",
 	"remoteRepository": "http://git.analytics-proxy.waktest.com",
-	"repository": "/Users/alexandremorgaut/git/AMorgaut/analytics-proxy/.git",
-	"worktree": "/Users/alexandremorgaut/git/AMorgaut/analytics-proxy/",
+	"repository": "/Users/alexandremorgaut/git/AMorgaut/Wakanda-Analytics-Proxy/.git",
+	"worktree": "/Users/alexandremorgaut/git/AMorgaut/Wakanda-Analytics-Proxy/",
 	"isSolutionCommited": "true",
-	"commitCount": "5"
+	"commitCount": "15"
 }
