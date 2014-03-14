@@ -1,8 +1,6 @@
 # OS X
 *.DS_Store
 ._*
-# Wakanda data
-*.waData
 # Wakanda preferences
 *.waPreferences
 # Wakanda log
@@ -26,4 +24,3 @@ sessionID.json
 *.waBackup
 # Wakanda Remote Model Cache
 *.waRemoteModel
-
