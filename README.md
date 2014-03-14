@@ -4,7 +4,15 @@
 
 ##Disclaimer##
 
-**It is still experimental**
+**WARNING - It is still experimental**
+
+##Credits##
+
+This solution is originaly a port to [Wakanda](http://wakanda.org) of [Google Analytics Beacon](https://github.com/igrigorik/ga-beacon) from **[Ilya Grigorik](https://github.com/igrigorik)** (Google).
+
+*Note: The original version was using the [GO Programming Language](http://golang.org/) and did run on [Google App Engine](https://cloud.google.com/products/app-engine).*
+
+In this version I prefered to use the `Referer` HTTP header instead of having to manually set custom paths. It makes, in my opinion, it easier to integrate and makes the stats more relevant if a readme file is opened from different origins (like a fork). I also started to prepare an abstraction layer to support other Analytics tools like [Marketo](http://marketo.com).
 
 ##About##
 
@@ -77,14 +85,6 @@ And that's it, add the tracker image to the pages you want to track and then hea
 
 - **Can I use this outside of GitHub?** Yep, [you certainly can](http://www.sitepoint.com/using-beacon-image-github-website-email-analytics/). It's a generic beacon service.
 
-
-##Credits##
-
-This solution is originaly a port to [Wakanda](http://wakanda.org) of [Google Analytics Beacon](https://github.com/igrigorik/ga-beacon) from **[Ilya Grigorik](https://github.com/igrigorik)** (Google).
-
-*Note: The original version was using the [GO Programming Language](http://golang.org/) and did run on [Google App Engine](https://cloud.google.com/products/app-engine).*
-
-In this version I prefered to use the `Referer` HTTP header instead of having to manually set custom paths. It makes, in my opinion, it easier to integrate and makes the stats more relevant if a readme file is opened from different origins (like a fork). I also started to prepare an abstraction layer to support other Analytics tools like [Marketo](http://marketo.com).
 
 ##License##
 
