@@ -1,6 +1,6 @@
 #Wakanda Analytics Proxy#
 
-[![Analytics](https://analytics-proxy.waktest.com/UA-48954928-1)](https://github.com/AMorgaut/Wakanda-Analytics-Proxy)
+[![Analytics](http://analytics-proxy.waktest.com/UA-48954928-1)](https://github.com/AMorgaut/Wakanda-Analytics-Proxy)
 
 ##Disclaimer##
 
