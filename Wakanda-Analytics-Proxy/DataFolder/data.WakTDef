@@ -1,1 +1,1 @@
-﻿[]
+﻿[{"dataTableNum":1,"tableName":"HTTPRequest","fields":[{"fieldName":"ID","posInRecord":1},{"fieldName":"requestLine","posInRecord":2},{"fieldName":"host","posInRecord":3},{"fieldName":"isSSL","posInRecord":4},{"fieldName":"remoteAddress","posInRecord":5},{"fieldName":"remotePort","posInRecord":6},{"fieldName":"user","posInRecord":7},{"fieldName":"password","posInRecord":8},{"fieldName":"accept","posInRecord":9},{"fieldName":"acceptLanguage","posInRecord":10},{"fieldName":"userAgent","posInRecord":11},{"fieldName":"referrer","posInRecord":12}]}]

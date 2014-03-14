@@ -1,0 +1,1 @@
+﻿model.HTTPRequest.method.onGet = function() {	return this.requestLine.split(' ')[0];};model.HTTPRequest.url.onGet = function() {	return this.requestLine.split(' ')[1];};model.HTTPRequest.version.onGet = function() {	return this.requestLine.split(' ')[2];};
